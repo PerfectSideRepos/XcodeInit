@@ -72,7 +72,7 @@ It will be useful when uncertain or credential info needs to apply but you don't
 swift-xcode-init MYUSR=mysql_user_name MYPWD=mysql_password
 ```
 
-You can check the Xcode schemes to verify the settings.
+You can check Xcode schemes for these settings.
 
 
 ## Issues
