@@ -23,6 +23,9 @@
 
 <p align="center">
     <a href="https://developer.apple.com/swift/" target="_blank">
+        <img src="https://img.shields.io/badge/Swift-4.0-orange.svg?style=flat" alt="Swift 4.0">
+    </a>
+    <a href="https://developer.apple.com/swift/" target="_blank">
         <img src="https://img.shields.io/badge/Platforms-OS%20X-lightgray.svg?style=flat" alt="Platforms OS X">
     </a>
     <a href="http://perfect.org/licensing.html" target="_blank">
