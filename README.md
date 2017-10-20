@@ -41,7 +41,7 @@
 
 This Script can patch `customWorkingDirectory = "$PROJECT_DIR"` to Xcode project after automatically applying `swift package generate-xcodeproj`, as well as setting environmental variables for testing / running in Xcode.
 
-This can be useful when you have to change Swift Package dependencies and Xcode project has to be re-generated.
+This can be useful when you have to modify Swift Package dependencies and Xcode project has to be re-generated.
 
 ## Quick Start
 
