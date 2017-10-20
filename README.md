@@ -50,10 +50,10 @@ This can be useful when you have to modify Swift Package dependencies and Xcode 
 Open a terminal then copy the following script to it.
 
 ```
-git clone https://github.com/PerfectSideRepos/XcodeInit.git
-sudo cp XcodeInit/swift-xcode-init /usr/local/bin
-rm -rf XcodeInit
-sudo chmod +x /usr/local/bin/swift-xcode-init
+git clone https://github.com/PerfectSideRepos/XcodeInit.git && \
+sudo cp XcodeInit/swift-xcode-init /usr/local/bin && \
+rm -rf XcodeInit && \
+sudo chmod +x /usr/local/bin/swift-xcode-init 
 ```
 
 ### Usage
